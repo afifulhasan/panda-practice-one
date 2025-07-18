@@ -417,6 +417,11 @@ color: black;
     color: white;
     background-color:rgba(255, 88, 155, 1.00) ;
 border-radius: 0 14px 14px 0;
+cursor: pointer;
+}
+.btn-secondary:hover{
+    background-color:rgb(233, 72, 72) ;
+    color: black;
 }
 
 
