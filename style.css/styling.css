@@ -251,6 +251,15 @@ grid-template-columns: repeat(1, 1fr);
 .sec-three{
     margin-left: 70px ;
 }
+.three-head{
+    display: flex;
+    justify-content: space-between;
+    align-items: center; 
+}
+.three-head h5{
+    color: rgba(255, 157, 0, 1.00);
+    margin-right: 70px;
+}
 .sec-three h2{
     font-size: 36px;
     font-weight: bold;
@@ -300,6 +309,70 @@ grid-template-columns: repeat(1, 1fr);
 
 /*section-three-mobile*/
 /*section-three-tab*/
+
+/*section-four*/
+
+.sec-four{
+    margin-left: 70px ;
+}
+.four-head{
+    display: flex;
+    justify-content: space-between;
+    align-items: center; 
+}
+.four-head h5{
+    color: rgba(255, 157, 0, 1.00);
+    margin-right: 70px;
+}
+.sec-four h2{
+    font-size: 36px;
+    font-weight: bold;
+}
+.bag-main-div{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 0px;
+}
+.bag-container{
+    background-color: wheat;
+    border-radius: 24px;
+    box-shadow: 20px black;
+    width: 320px;
+    height: 420px;
+    text-align: center;
+}
+.bag-container img{
+    width: 250px;
+    height: 170px;
+}
+
+.bag-container h3{
+    font-size: 25px;
+    font-weight: 500px;
+    height: 15px;
+}
+.bag-container p{
+    font-size: 15px;
+    color: rgba(78, 78, 78, 1.00);
+    width: 250px;
+    height: 20px;
+  margin: 0 auto;
+}
+.bag-container h4{
+    font-size: 25px;
+    font-weight: 500px;
+    height: 10px;
+}
+.btn-primary{
+    background-color: black;
+    color: white;
+    padding: 15px 20px;
+    border-radius: 10px;
+    border: none;
+}
+
+/*section-four-mobile*/
+/*section-four-tab*/
 
 
 
