@@ -1,3 +1,10 @@
+
+.lora-uniquifier{
+  font-family: "Lora", serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+
 /*nav style*/
 .head-main{
     margin-top: 20px;
@@ -291,7 +298,7 @@ grid-template-columns: repeat(1, 1fr);
     font-size: 15px;
     color: rgba(78, 78, 78, 1.00);
     width: 250px;
-    height: 20px;
+    height: 30px;
   margin: 0 auto;
 }
 .shoe-container h4{
@@ -355,7 +362,7 @@ grid-template-columns: repeat(1, 1fr);
     font-size: 15px;
     color: rgba(78, 78, 78, 1.00);
     width: 250px;
-    height: 20px;
+    height: 30px;
   margin: 0 auto;
 }
 .bag-container h4{
@@ -374,9 +381,43 @@ grid-template-columns: repeat(1, 1fr);
 /*section-four-mobile*/
 /*section-four-tab*/
 
+/*footer*/
 
-
-
+.footer-container{
+   text-align: center;
+   background-color: rgba(255, 242, 241, 1.00);
+   width: 1100px;
+   height: 355px;
+   margin-top: 50px;
+   margin-left: 60px;
+   border-radius: 24px;
+}
+.footer-description{
+   padding-top: 9%;
+}
+.footer-description h2{
+    font-size: 45px;
+    height: 20px;
+}
+.footer-description p{
+    font-size: 15px;
+    color: rgba(112, 112, 112, 1.00);
+}
+.footer-description input{
+padding: 10px 30px;
+width: 300px;
+border: none;
+border-radius: 14px 0 0 14px;
+background-color: rgb(238, 146, 146);
+color: black;
+}
+.btn-secondary{
+    padding: 10px 30px;
+    border: none;
+    color: white;
+    background-color:rgba(255, 88, 155, 1.00) ;
+border-radius: 0 14px 14px 0;
+}
 
 
 
