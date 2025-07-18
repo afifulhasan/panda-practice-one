@@ -176,7 +176,7 @@ height: 178px;
 .second-container{
     max-width: 1130px;
     height: 200px;
-    margin-left: 45px;
+    margin-left: 107px;
 }
 
 .second-container h3{
@@ -256,7 +256,7 @@ grid-template-columns: repeat(1, 1fr);
 /*section-three*/
 
 .sec-three{
-    margin-left: 70px ;
+    margin-left: 100px ;
 }
 .three-head{
     display: flex;
@@ -265,7 +265,7 @@ grid-template-columns: repeat(1, 1fr);
 }
 .three-head h5{
     color: rgba(255, 157, 0, 1.00);
-    margin-right: 70px;
+    margin-right: 100px;
 }
 .sec-three h2{
     font-size: 36px;
@@ -320,7 +320,7 @@ grid-template-columns: repeat(1, 1fr);
 /*section-four*/
 
 .sec-four{
-    margin-left: 70px ;
+    margin-left: 100px ;
 }
 .four-head{
     display: flex;
@@ -329,7 +329,7 @@ grid-template-columns: repeat(1, 1fr);
 }
 .four-head h5{
     color: rgba(255, 157, 0, 1.00);
-    margin-right: 70px;
+    margin-right: 100px;
 }
 .sec-four h2{
     font-size: 36px;
@@ -389,7 +389,7 @@ grid-template-columns: repeat(1, 1fr);
    width: 1100px;
    height: 355px;
    margin-top: 50px;
-   margin-left: 60px;
+   margin-left: 125px;
    border-radius: 24px;
 }
 .footer-description{
