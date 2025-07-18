@@ -225,7 +225,7 @@ grid-template-columns: repeat(1, 1fr);
    align-items: center;
     }
     .second-container h3{
-        text-align: center;
+       padding-left: 40px;
     }
     #watch{
     width: 260px;
@@ -242,6 +242,80 @@ grid-template-columns: repeat(1, 1fr);
     height: 80px;
 }
 }
-/*section-two-mobile*/
+/*section-two-tab*/
 
 /*********************/
+
+/*section-three*/
+
+.sec-three{
+    margin-left: 70px ;
+}
+.sec-three h2{
+    font-size: 36px;
+    font-weight: bold;
+}
+.shoe-main-div{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 0px;
+}
+.shoe-container{
+    background-color: wheat;
+    border-radius: 24px;
+    box-shadow: 20px black;
+    width: 320px;
+    height: 420px;
+    text-align: center;
+}
+.shoe-container img{
+    width: 250px;
+    height: 170px;
+}
+
+.shoe-container h3{
+    font-size: 25px;
+    font-weight: 500px;
+    height: 15px;
+}
+.shoe-container p{
+    font-size: 15px;
+    color: rgba(78, 78, 78, 1.00);
+    width: 250px;
+    height: 20px;
+  margin: 0 auto;
+}
+.shoe-container h4{
+    font-size: 25px;
+    font-weight: 500px;
+    height: 10px;
+}
+.btn-primary{
+    background-color: black;
+    color: white;
+    padding: 15px 20px;
+    border-radius: 10px;
+    border: none;
+}
+
+/*section-three-mobile*/
+/*section-three-tab*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
